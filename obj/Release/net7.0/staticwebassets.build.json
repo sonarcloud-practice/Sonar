@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XRvZHQtF/1hoX6Wv1TvrUxxf5a8MN3GSDL/LnMbMuts=",
+  "Source": "Mydocker",
+  "BasePath": "_content/Mydocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
